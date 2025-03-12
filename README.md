@@ -1,6 +1,7 @@
 # machine_learning
 machine_learning çalışmalarım
-1)# Su Kalitesi Tahmini
+#1)
+# Su Kalitesi Tahmini
 
 ## Proje Açıklaması
 
